@@ -1,0 +1,13 @@
+venta_id,fecha,producto,categoria_codigo,cantidad,precio_unitario,descuento,region
+V001,2026-01-05,Laptop HP 15,COM,1,950,10,norte
+V002,2026-01-07,Mouse Logitech M170,ACC,3,20,0,centro
+V003,2026-01-08,Monitor LG 24,COM,1,220,5,Norte
+V004,2026-01-09,,ACC,2,15,0,sur
+V005,2026-01-10,Teclado Redragon,ACC,1,55,150,sur
+V006,2026-02-11,Audífonos Sony,AUD,2,80,0,centro
+V007,2026-02-12,Mouse Logitech M170,ACC,-1,20,0,norte
+V008,2026-02-30,Webcam Logitech,COM,1,70,0,sur
+V009,2026-03-01,Bocina JBL,AUD,1,120,abc,norte
+V002,2026-03-02,Mouse Logitech M170,ACC,1,20,0,centro
+V010,2026-03-05,Silla gamer,MUE,1,250,10,centro
+V011,2026-03-10,Monitor Samsung 27,COM,2,300,0,sur
